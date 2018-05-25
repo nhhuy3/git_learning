@@ -1,1 +1,2 @@
 abc
+Thêm dòng chữ abcd cho test.txt
